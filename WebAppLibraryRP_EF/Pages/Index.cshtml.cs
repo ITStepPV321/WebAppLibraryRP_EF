@@ -12,9 +12,6 @@ namespace WebAppLibraryRP_EF.Pages
 			_logger = logger;
 		}
 
-		public  OnGet()
-		{
 
-		}
 	}
 }
